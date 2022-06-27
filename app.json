@@ -1,10 +1,10 @@
 {
-  "name": "TechieX Bot",
+  "name": "TechieX",
   "description": "Telegram Bot to Upload URLs to Telegram as File and Video.",
   "keywords": [ "URL UPLOADER"],
-  "success_url": "https://t.me/TechieX_bot",
-  "website": "https://github.com/mitthu786",
-  "repository": "https://github.com/mitthu786/TechieX_bot",
+  "success_url": "",
+  "website": "https://github.com/",
+  "repository": "https://github.com/Gautam-Pra/TechieX_",
 
   "env": {
     "WEBHOOK": {"description": "Setting this to ANYTHING will enable webhooks when in env mode",
